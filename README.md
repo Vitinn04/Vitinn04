@@ -21,6 +21,6 @@
 
 ## Contatos:
 
-<a href="https://www.linkedin.com/in/fernando-nogueira-5a2309234/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
+<a href="https://www.linkedin.com/in/victor-henrique-3a54b8251/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitinn04&show_icons=true&theme=tokyonight)
