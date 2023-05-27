@@ -23,4 +23,8 @@
 
 <a href="https://www.linkedin.com/in/victor-henrique-3a54b8251/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitinn04&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/Vitinn04">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasNun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitinn04&layout=compact&langs_count=7&theme=tokyonight"/>  
+</div>
