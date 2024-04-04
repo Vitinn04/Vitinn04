@@ -17,7 +17,7 @@
 
 ## Contatos:
 
-<a href="https://www.linkedin.com/in/victor-henrique-3a54b8251/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
+<a href="https://www.linkedin.com/in/victorhenriquecb/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
 ##
 <div align="center">
   <a href="https://github.com/Vitinn04">
